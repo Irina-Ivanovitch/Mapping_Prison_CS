@@ -13,3 +13,20 @@
 5- Il ne faudra pas oublier de copier toutes les lignes du fichier ObjetsFree-Types.xml et de les coller dans votre propre fichier types.xml.
 
 Petite précision, si ous utilisez la version " Bunker-prisonCS.json " vous aurez des animaux et des zombis prisonniers par contre dans la version " Bunker-prisonCS.dze " ils n'apparaîtront pas.
+
+
+//////////////////////////////////////////////////////////////////
+
+1- You must imperatively install the DayzEditor Loader mod on your server
+
+2- The Bunker-prisonCS.dze file allows you via DayzEditor Loader to put this mapping on your server.
+
+3- the Bunker-prisonCS.json file allows you to install the mapping on your server via the cfggameplay.json file.
+
+2- the mapgrouppos.xml file allows you to add loots in the buildings of the mapping, just copy all the lines of the file and paste them into your own mapgrouppos.xml file
+
+4- The mapgroupproto.xml file generates points for CS objects that do not exist, just copy all the lines of the file and paste them into your own mapgroupproto.xml file
+
+5- Remember to copy all the lines of the ObjetsFree-Types.xml file and paste them into your own.xml type file.
+
+Just to be clear, if you use the "Bunker-prisonCS.json" version, you will have animals and zombies trapped in the "Bunker-prisonCS.dze" version.
