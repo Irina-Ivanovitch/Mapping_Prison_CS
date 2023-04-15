@@ -10,6 +10,6 @@
 
 4- Le fichier mapgroupproto.xml génére les points des objets CS qui n'existent pas, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgroupproto.xml
 
-5- Il ne faut pas oublier de copier toutes les lignes du fichier ObjetsFree-Types.xml et de les coller dans votre propre fichier types.xml.
+5- Il ne faudra pas oublier de copier toutes les lignes du fichier ObjetsFree-Types.xml et de les coller dans votre propre fichier types.xml.
 
 Petite précision, si ous utilisez la version " Bunker-prisonCS.json " vous aurez des animaux et des zombis prisonniers par contre dans la version " Bunker-prisonCS.dze " ils n'apparaîtront pas.
