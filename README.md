@@ -10,4 +10,4 @@
 
 4- Le fichier mapgroupproto.xml génére les points des objets CS qui n'existent pas, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgroupproto.xml
 
-5- Il ne faut pas oublier de copier toutes les lignes du fichier CS-Types.xml et de les coller dans votre propre fichier types.xml.
+5- Il ne faut pas oublier de copier toutes les lignes du fichier ObjetsFree-Types.xml et de les coller dans votre propre fichier types.xml.
