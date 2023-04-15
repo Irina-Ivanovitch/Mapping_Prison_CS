@@ -1,6 +1,8 @@
 # Mapping_Prison_CS
 
-1- Vous devez imperativement installer le mod DayzEditor Loader sur votre serveur
+0- Vous devez imperativement installer le mod DayzEditor Loader sur votre serveur
+
+1-Vous devez imperativement installer le mod Objects_Free_Mapping sur votre serveur https://steamcommunity.com/sharedfiles/filedetails/?id=2866394785
 
 2- Le fichier Bunker-prisonCS.dze vous permet via DayzEditor Loader de mettre ce mapping sur votre serveur.
 
