@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prototype>
+  <!--- Rajout objets Mapping -->	
+        <group name="CS_Bunker" lootmax="4">
+	            <usage name="Military" />
+	            <container name="lootFloor" lootmax="3">
+	        	<category name="weapons" />  				
+		                 <point pos="2.706478 0.249920 0.830722" range="1" height="1" /> 
+		                 <point pos="1.050479 0.249920 -0.936963" range="1" height="1" /> 
+		                 <point pos="-1.393199 0.249920 -0.699130" range="1" height="1" /> 
+		                 <point pos="-0.350899 0.249920 0.947515" range="1" height="1" />   
+	            </container>
+        </group>
+        <group name="CS_Bunker2" lootmax="4">
+	            <usage name="Military" />
+	            <container name="lootFloor" lootmax="3">
+				<category name="weapons" />
+		                <point pos="-0.700860 0.254700 1.077825" range="1" height="1" /> 
+		                <point pos="-8.562303 0.254701 0.880289" range="1" height="1" /> 
+		                <point pos="-3.092216 0.254700 -2.056226" range="1" height="1" /> 
+		                <point pos="-6.269470 0.254701 -1.581977" range="1" height="1" /> 
+    	        </container>
+        </group> 
+        <group name="CS_Tent_Black" lootmax="4">
+	            <usage name="Military" />
+	            <container name="lootFloor" lootmax="4">
+		                <point pos="0.769990 0.041878 2.062990" range="1" height="1" /> 
+		                <point pos="0.778461 0.041878 -1.092336" range="1" height="1" /> 
+		                <point pos="-1.970826 0.041878 -0.586955" range="1" height="1" /> 
+		                <point pos="-1.148828 0.041878 1.607505" range="1" height="1" /> 
+	            </container>
+        </group>
+        <group name="CS_Tent_UCP" lootmax="4">
+	            <usage name="Military" />
+	            <container name="lootFloor" lootmax="4">
+		                <point pos="0.769990 0.041878 2.062990" range="1" height="1" /> 
+		                <point pos="0.778461 0.041878 -1.092336" range="1" height="1" /> 
+		                <point pos="-1.970826 0.041878 -0.586955" range="1" height="1" /> 
+		                <point pos="-1.148828 0.041878 1.607505" range="1" height="1" /> 
+	            </container>
+        </group>
+        <group name="CS_Tent_Wood" lootmax="4">
+	            <usage name="Military" />
+	            <container name="lootFloor" lootmax="4">
+		                <point pos="0.769990 0.041878 2.062990" range="1" height="1" /> 
+		                <point pos="0.778461 0.041878 -1.092336" range="1" height="1" /> 
+		                <point pos="-1.970826 0.041878 -0.586955" range="1" height="1" /> 
+		                <point pos="-1.148828 0.041878 1.607505" range="1" height="1" /> 
+	            </container>
+        </group>
+		
+   <!--- FIN Du Rajout objets Mapping -->		
+
+</prototype>		
