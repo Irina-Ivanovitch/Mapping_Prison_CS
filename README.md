@@ -21,9 +21,11 @@
 5- Le fichier ObjetsFree-Types.xml valide les objets sur votre serveur, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier types.xml.
 
 Petite précision, si ous utilisez la version " Bunker-prisonCS.json " vous aurez des animaux et des zombis prisonniers par contre dans la version " Bunker-prisonCS.dze " ils n'apparaîtront pas.
+ 
+ 
 
+              /////////////// -English version- ///////////////
 
-/////////////// -English version- ///////////////
 
 
 - All credit for the _CS objects goes to Canadian_Sniper.
