@@ -23,7 +23,7 @@
 Petite précision, si ous utilisez la version " Bunker-prisonCS.json " vous aurez des animaux et des zombis prisonniers par contre dans la version " Bunker-prisonCS.dze " ils n'apparaîtront pas.
 
 
-//////////////////////////////////////////////////////////////////
+/////////////// -English version- ///////////////
 
 
 - All credit for the _CS objects goes to Canadian_Sniper.
