@@ -4,6 +4,7 @@
 - Tout le mérite des objets _CS revient à Canadian_Sniper
 - Pour des raisons que j'ignore ses objets gratuits ne sont plus sur Steam, ni sont compte personnel.
 - Le pack  "Objects_Free_Mapping" à était creer pour pallier a la disparition de ses objets.
+- Merci
 
 0- Vous devez imperativement installer le mod DayzEditor Loader sur votre serveur https://steamcommunity.com/sharedfiles/filedetails/?id=2276010135
 
@@ -23,6 +24,12 @@ Petite précision, si ous utilisez la version " Bunker-prisonCS.json " vous aure
 
 
 //////////////////////////////////////////////////////////////////
+
+
+- All credit for the _CS objects goes to Canadian_Sniper.
+ - For reasons unknown to me, his free objects are no longer on Steam or his personal account.
+ - The "Objects_Free_Mapping" pack was created to compensate for the disappearance of his objects.
+ - Thx
 
 0- You must imperatively install the DayzEditor Loader mod on your server https://steamcommunity.com/sharedfiles/filedetails/?id=2276010135
 
