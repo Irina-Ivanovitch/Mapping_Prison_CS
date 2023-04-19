@@ -12,7 +12,7 @@
 
 4- Le fichier mapgroupproto.xml génére les points des objets CS qui n'existent pas, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgroupproto.xml
 
-5- Le fichier ObjetsFree-Types.xml ajoutes les objets sur votre serveur, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier types.xml.
+5- Le fichier ObjetsFree-Types.xml valide les objets sur votre serveur, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier types.xml.
 
 Petite précision, si ous utilisez la version " Bunker-prisonCS.json " vous aurez des animaux et des zombis prisonniers par contre dans la version " Bunker-prisonCS.dze " ils n'apparaîtront pas.
 
@@ -31,6 +31,6 @@ Petite précision, si ous utilisez la version " Bunker-prisonCS.json " vous aure
 
 4- The mapgroupproto.xml file generates points for CS objects that do not exist, just copy all the lines of the file and paste them into your own mapgroupproto.xml file
 
-5- The ObjectsFree-Types.xml file adds the objects on your server, just copy all the lines from the file and paste them into your own types.xml file.
+5- The ObjectsFree-Types.xml file to validte the objects on your server, just copy all the lines from the file and paste them into your own types.xml file.
 
 Just to be clear, if you use the "Bunker-prisonCS.json" version, you will have animals and zombies trapped in the "Bunker-prisonCS.dze" version.
