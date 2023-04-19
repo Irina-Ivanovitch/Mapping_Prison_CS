@@ -1,12 +1,9 @@
 # Mapping_Prison_CS
 
-Mapping utilisant des objets appartenant a Candian_Sniper.
-
-Tout le mérite des objets _CS revient à Canadian_Sniper
-
-Pour des raisons que j'ignore ses objets gratuits ne sont plus sur Steam, ni sont compte personnel.
-
-Le pack  "Objects_Free_Mapping" à était creer pour pallier a la disparition de ses objets.
+- Mapping utilisant des objets appartenant a Candian_Sniper.
+- Tout le mérite des objets _CS revient à Canadian_Sniper
+- Pour des raisons que j'ignore ses objets gratuits ne sont plus sur Steam, ni sont compte personnel.
+- Le pack  "Objects_Free_Mapping" à était creer pour pallier a la disparition de ses objets.
 
 0- Vous devez imperativement installer le mod DayzEditor Loader sur votre serveur https://steamcommunity.com/sharedfiles/filedetails/?id=2276010135
 
