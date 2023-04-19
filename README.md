@@ -19,9 +19,11 @@ Petite précision, si ous utilisez la version " Bunker-prisonCS.json " vous aure
 
 //////////////////////////////////////////////////////////////////
 
-1- You must imperatively install the DayzEditor Loader mod on your server https://steamcommunity.com/sharedfiles/filedetails/?id=2276010135
+0- You must imperatively install the DayzEditor Loader mod on your server https://steamcommunity.com/sharedfiles/filedetails/?id=2276010135
 
-2- The Bunker-prisonCS.dze file allows you via DayzEditor Loader to put this mapping on your server https://steamcommunity.com/sharedfiles/filedetails/?id=2866394785
+1- You must imperatively install Objects_Free_Mapping Loader mod on your server https://steamcommunity.com/sharedfiles/filedetails/?id=2866394785
+
+2- The Bunker-prisonCS.dze file allows you via DayzEditor Loader to put this mapping on your server 
 
 3- the Bunker-prisonCS.json file allows you to install the mapping on your server via the cfggameplay.json file.
 
